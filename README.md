@@ -12,4 +12,4 @@ G   G o o o o g g l e e     F    o o n  n  t
 
 Just download and run:
 
-`chmod +x install.sh; sh install.sh`
+`sh install.sh`
